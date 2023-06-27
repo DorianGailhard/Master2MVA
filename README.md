@@ -1,6 +1,7 @@
 *Homeworks and projects done during the M2 MVA*
 
 *First term*
+
 A description for each course can be found at https://www.master-mva.com/cours-1er-semestre/
 
 Convex optimization and applications in machine learning (A. d'Aspremont)
@@ -13,6 +14,7 @@ Mathematical Methods for Neurosciences (E. Tanré, R. Veltz)
 Topological Data Analysis for Imaging and Machine Learning (J. Tierny, F. Chazal)
 
 *Second term*
+
 A description for each course can be found at https://www.master-mva.com/cours-2nd-semestre/
 
 Deep RL (B. Piot, C. Tallec, F. Strub, J.B. Grill)
@@ -23,6 +25,7 @@ Learning for Time Series (L. Oudre)
 Theoretical Foundations of Deep Learning (S. Gerchinovitz, F. Malgouyres, E. Pauwels, N. Thome)
 
 *Courses also attended but not validated*
+
 Seminar "Turing" (C.-R. Ségerie, S. Campos)
 Generative Models for Images (B. Galerne, V. de Bortoli)
 Modelling in Neurosciences and Elsewhere (J.-P. Nadal)
