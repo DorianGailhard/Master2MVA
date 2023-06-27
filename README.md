@@ -29,10 +29,7 @@ A description for each course can be found at https://www.master-mva.com/cours-2
 - Seminar "Turing" (C.-R. Ségerie, S. Campos)
 - Generative Models for Images (B. Galerne, V. de Bortoli)
 - Modelling in Neurosciences and Elsewhere (J.-P. Nadal)
-
-Algorithms for Speech and Natural Language Processing (E. Dupoux, B. Sagot)
-
-Geometry and Shapes Spaces (A. Trouvé, J. Glaunes)
-
-Models, Information and Statistical Physic (S. Mallat)
+- Algorithms for Speech and Natural Language Processing (E. Dupoux, B. Sagot)
+- Geometry and Shapes Spaces (A. Trouvé, J. Glaunes)
+- Models, Information and Statistical Physic (S. Mallat)
 
